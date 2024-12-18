@@ -1,0 +1,13 @@
+{
+  "name": "website-project",
+  "version": "1.0.0",
+  "description": "Website showing food menu, working wardens, and important information.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
